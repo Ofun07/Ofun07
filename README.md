@@ -1,4 +1,3 @@
-import random
 
 def zahlenraten():
     print("Willkommen beim Zahlenraten-Spiel!")
