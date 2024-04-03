@@ -1,4 +1,4 @@
-
+wilkommen
 def zahlenraten():
     print("Willkommen beim Zahlenraten-Spiel!")
     print("Ich denke an eine Zahl zwischen 1 und 100.")
